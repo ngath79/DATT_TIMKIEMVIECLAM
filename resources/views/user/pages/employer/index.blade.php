@@ -3,7 +3,7 @@
 @section('pageTitle', 'Nhà tuyển dụng hàng đầu')
 
 @section('content')
-    <body class="search-result-list-page" style="">
+    <body class="search-result-list-page" >
     <div class="container my-5">
         <div class="row mt-4">
             <div class="col-lg-2">
